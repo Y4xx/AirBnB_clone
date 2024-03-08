@@ -30,7 +30,7 @@ Follow these instructions to set up the project on your local machine (Linux dis
 ## Installing
 Clone the project repository from GitHub, containing the fundamental shell program and its dependencies.
 ```bash
-git clone https://github.com/Y4xx/AirBnB_clone.git
+git clone https://{token}@github.com/Y4xx/AirBnB_clone.git
 ```
 Upon cloning, a folder named "AirBnB_clone" will be created, housing essential files for the program's operation:
 - `/console.py`: The main executable of the project, serving as the command interpreter.
