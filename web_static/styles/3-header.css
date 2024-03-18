@@ -8,7 +8,7 @@ body header {
 }
 
 body header::before {
-	content: url(/web_static/images/logo.png);
+	content: url(../images/logo.png);
 	float: left;
 	margin-left: 20px;
 }
