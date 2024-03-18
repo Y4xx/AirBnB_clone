@@ -1,0 +1,13 @@
+body footer {
+	background-color: #ffffff;
+	height: 60px;
+	width: 100%;
+	position: fixed;
+	bottom: 0;
+	border-top: 1px solid #CCCCCC;
+}
+body footer p {
+	text-align: center;
+	margin: 0;
+	line-height: 60px;
+}

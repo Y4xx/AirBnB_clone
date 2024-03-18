@@ -1,0 +1,16 @@
+body header {
+	background-color: #ffffff;
+	height: 70px;
+	width: 100%;
+	border-bottom: 1px solid #CCCCCC;
+	display: flex;
+	align-items: center;
+}
+
+body header::before {
+	content: url(/web_static/images/logo.png);
+	float: left;
+	margin-left: 20px;
+}
+
+
